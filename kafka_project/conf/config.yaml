@@ -1,0 +1,6 @@
+broker:
+  kafka:
+    hostname: localhost
+    port: 9092
+    topic: test2
+    group_id: test2
